@@ -12,6 +12,8 @@ public class Stuland2ndActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_stuland2nd);
+
+        //this is test line
     }
 
 
